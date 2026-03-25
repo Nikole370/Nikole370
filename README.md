@@ -22,6 +22,16 @@ Git · .NET · Angular · REST APIs
 
 ---
 
+## Featured projects
+
+**[sonrise-etl-pipeline](https://github.com/Nikole370/sonrise-etl-pipeline)** — Production ETL pipeline extracting from a dental clinic REST API (13 endpoints, 657K+ rows) into SQL Server, connected to Power BI and AWS QuickSight dashboards with daily automated refresh. Python · SQL Server · Power BI · Microsoft Fabric
+
+**[vote-informed](https://github.com/Nikole370/vote-informed)** — Civic data project tracking Peruvian presidential and congressional candidates. Building toward 1000+ records with full pipeline and public dashboard. Python · dbt · Streamlit *(in progress)*
+
+**[sports-planner](https://github.com/Nikole370/sports-planner)** — Weekly sports routine planner built as a single HTML file — no frameworks, no server. Supports date-range routines, per-category daily checklists, and automatic week detection. HTML · CSS · JS
+
+---
+
 ## Experience
 
 - Built end-to-end ETL pipelines in Python for client reporting automation
