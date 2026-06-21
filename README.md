@@ -8,21 +8,23 @@ I build data pipelines and BI solutions that help businesses make faster, better
 
 ## What I work with
 
-**Languages & querying**
+**Languages & querying**  
 SQL · Python · DAX
 
-**BI & Visualization**
-Power BI · Amazon QuickSight · Excel
+**BI & Visualization**  
+Power BI · Amazon QuickSight · Tableau · Excel
 
-**Databases**
+**Databases**  
 PostgreSQL · SQL Server
 
-**Other**
+**Other**  
 Git · .NET · Angular · REST APIs
 
 ---
 
 ## Featured projects
+
+**[retail-sales-performance-tableau](https://github.com/Nikole370/retail-sales-performance-tableau)** — Executive Tableau dashboard evaluating 2025 retail sales against commercial targets and prior-year profitability. Highlights a S/ 19.2M sales gap, regional performance, and management actions. [Live dashboard](https://public.tableau.com/views/Retail2025-Cumplimientodeventasyrentabilidad/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). Tableau · Business Intelligence · Data Visualization
 
 **[sonrise-etl-pipeline](https://github.com/Nikole370/sonrise-etl-pipeline)** — Production ETL pipeline extracting from a dental clinic REST API (13 endpoints, 657K+ rows) into SQL Server, connected to Power BI and AWS QuickSight dashboards with daily automated refresh. Python · SQL Server · Power BI · Microsoft Fabric
 
@@ -35,7 +37,7 @@ Git · .NET · Angular · REST APIs
 ## Experience
 
 - Built end-to-end ETL pipelines in Python for client reporting automation
-- Developed interactive Power BI and QuickSight dashboards across multiple business domains
+- Developed interactive Power BI, QuickSight, and Tableau dashboards across multiple business domains
 - Designed PostgreSQL data models for operational and reporting workloads
 - Integrated third-party APIs into backend workflows using .NET
 - Worked on BI requirements gathering and solution design for enterprise clients
